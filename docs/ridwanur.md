@@ -1,7 +1,12 @@
 # Medicine shop
 We also have online medicine store where patient will be able to find any kind of madicines with a fastest medicine delivery service all over bangladesh at a low price range for any kind of medicine.
 ## Features
-
+1. Deliver medicine.
+2. Create Account.
+3. Sign In/ Sign Out
+4. Search Medicine.
+5. Add to Cart.
+6. Payment (demo).
 
 ## Instruction of uses
 1. CliniCare has its own medical store from where patients/user can buy medicine via online and also get home delivery.
@@ -14,4 +19,7 @@ We also have online medicine store where patient will be able to find any kind o
 
 ## Overview
 
-need some photo
+![mdcnshop 1](img/cart1.png)
+![mdcnshop 2](img/cart2.png)
+![mdcnshop 3](img/cart3.png)
+![mdcnshop 4](img/cart4.png)
