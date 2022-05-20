@@ -1,11 +1,11 @@
 # Ambulance Booking
 We provide most advance emergency ambulance service which contains Air ambulance service, Ac & non Ac, freezing ambulance, water Ambulance & Economy ambulance.
 ## Features
-* Lorem lorem sed rebum elitr.
-* Lorem lorem sed rebum elitr.
-* Lorem lorem sed rebum elitr.
-* Lorem lorem sed rebum elitr.
-* Lorem lorem sed rebum elitr.
+- Login/Sign up
+- Ambulance
+- Approve user request
+- Choose ambulance
+- Make payment
 
 ## Instruction of uses
 1. CliniCare provides various kinds of emergency ambulance service to people ,but the booking system is the same for all kinds.
